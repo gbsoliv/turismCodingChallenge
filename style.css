@@ -123,6 +123,9 @@ h3 {
   font-size: 16px;
 }
 
+ul {
+  padding-left: 24px;
+}
 ul li {
   color: var(--accent-blue);
   font-weight: bold;
@@ -141,5 +144,16 @@ ul li {
 }
 
 .description-last {
-  
+  text-align: center;
+}
+
+footer {
+  color: var(--text-secondary);
+  text-align: center;
+  padding-top: 137px;
+}
+
+footer img {
+  margin: 4px;
+  vertical-align: middle;
 }
