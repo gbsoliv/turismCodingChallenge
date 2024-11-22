@@ -79,6 +79,8 @@ p {
 
 hr {
   color: var(--border-primary);
+  margin-top: 40px;
+  margin-bottom: 40px;
 }
 
 .content-list {
@@ -119,10 +121,25 @@ h3 {
   color: var(--text-secondary);
   font-weight: bold;
   font-size: 16px;
-
 }
 
 ul li {
   color: var(--accent-blue);
   font-weight: bold;
+}
+
+.purple {
+  color: var(--accent-purple);
+}
+
+.pink {
+  color: var(--accent-pink);
+}
+
+.orange {
+  color: var(--accent-orange);
+}
+
+.description-last {
+  
 }
